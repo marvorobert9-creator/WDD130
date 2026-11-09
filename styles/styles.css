@@ -18,10 +18,6 @@ p {
     padding: 0;
 }
 
-main {
-    max-width: 50px
-}
-
 aside {
     width: 250px;
     margin: 20px auto;
@@ -34,10 +30,9 @@ aside {
 }
 
 aside img {
-    max-width: 200px;
+    width: 200px;
     height: auto;
     border-radius: 8px;
-    padding: 10px;
 }
 
 footer {
@@ -47,7 +42,7 @@ footer {
 }
 
 body {
-    max-width: 10s0px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 20px
 }
