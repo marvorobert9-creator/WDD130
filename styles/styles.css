@@ -39,7 +39,6 @@ aside img {
     height: auto;
     border-radius: 8px;
     padding: 10px;
-    box-shadow: #000;
 }
 
 footer {
@@ -49,7 +48,7 @@ footer {
 }
 
 body {
-    max-width: 1000px;
+    max-width: 10s0px;
     margin: 0 auto;
     padding: 20px
 }
