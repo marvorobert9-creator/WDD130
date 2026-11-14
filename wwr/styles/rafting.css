@@ -51,7 +51,7 @@ nav, p, section, article {
 
 .hero > h1 {
     position: absolute;
-    top: 1rem;
+    top: 3rem;
     left: 50%;
     width: 90%;
     padding: 10px;
@@ -59,7 +59,7 @@ nav, p, section, article {
     opacity: 0.8;
     background-color: var(--primary-color);
     color: #fff;
-    transform: translate(-50%, -50%);
+    transform: translateX(-50%);
 }
  
 .hero article img {
