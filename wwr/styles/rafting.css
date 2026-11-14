@@ -51,14 +51,15 @@ nav, p, section, article {
 
 h1 {
     position: absolute;
-    top: 50%;
-    width: 50%;
+    top: 1rem;
+    left: 50%;
+    width: 90%;
     padding: 10px;
     text-align: center;
     opacity: 0.8;
-    background-color: var(--secondary-color);
-    transform: translate(-50%, -50%);
+    background-color: var(--primary-color);
     color: #fff;
+    transform: translateX(-50%);
 }
  
 .hero article img {
