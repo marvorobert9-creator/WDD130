@@ -88,5 +88,12 @@ a[href="..."] img[src="images/facebook-icon.png"] {
     content: url("images/facebook-icon.png");
 }
 
+@media (min-width: 40rem) {
+  header, main, footer {
+    width: calc(100% - 2rem);
+    max-width: 840px;
+  }
+}
+
 
 
