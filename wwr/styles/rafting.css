@@ -75,7 +75,7 @@ nav, p, section, article {
 }
 
 .hero article img {
-    float: left;
+    float: right;
     width: 125px;
 }
 
