@@ -68,7 +68,7 @@ nav, p, section, article {
  
 .hero article {
   position: absolute;
-  bottom: 1rem;
+  bottom: 5rem;
   left: 1rem;
   right: 1rem;
   background-color: rgba(238, 245, 247, 0.9);
