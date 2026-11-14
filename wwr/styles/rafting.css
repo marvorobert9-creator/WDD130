@@ -59,6 +59,7 @@ nav, p, section, article {
     opacity: 0.8;
     background-color: var(--primary-color);
     color: #fff;
+    transform: translate(-50%, -50%);
 }
  
 .hero article img {
