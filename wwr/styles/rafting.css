@@ -1,8 +1,8 @@
 :root{
-    --primary-color: #f0f267;
-    --secondary-color: #4cf6df;
-    --accent-color1: #f45a6f;
-    --accent-color2: #98FB98;
+    --primary-color: #17324d;   /* headings and dark panels */
+    --secondary-color: #eef5f7; /* page background */
+    --accent-color1: #2f7d8c;   /* links */
+    --accent-color2: #e6a23c;   /* small highlights */
     --heading-font: 'Times New Roman', Georgia, serif;
     --body-font: 'Arial', Helvetica, sans-serif;
 }
